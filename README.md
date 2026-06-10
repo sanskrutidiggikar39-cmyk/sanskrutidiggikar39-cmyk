@@ -45,8 +45,8 @@ Collection of engineering models and practice work.
 ---
 
 ## Connect With Me
-LinkedIn: Add your link here  
-Email: your email here
+LinkedIn: https://www.linkedin.com/in/sanskruti-diggikar-57bb86259/  
+Email: sanskrutidiggikar39@gmail.com
 
 ⭐ Thanks for visiting my profile!
 
