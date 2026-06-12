@@ -13,6 +13,9 @@ I am a first-year Aerospace Engineering student interested in learning through p
 Currently working on:
 - C Programming
 - Python Programming
+- HTML
+- CSS
+- JAVASCRIPT
 - CAD (2D & 3D Modeling)
 - Engineering Design
 - Git & GitHub
