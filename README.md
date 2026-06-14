@@ -1,7 +1,7 @@
 # Hi, I'm Sanskruti 👋
 
 🚀 First-Year Aerospace Engineering Student  
-💻 Learning C Programming & CAD  
+💻 Learning C Programming, Python Programming & CAD  
 📚 Exploring Engineering Projects and Technical Skills  
 🎯 Looking for Internship Opportunities and Hands-on Experience  
 
