@@ -23,7 +23,7 @@ Currently working on:
 ---
 
 ## Skills
-🔹 Programming: C, Python
+🔹 Programming: C, Python, HTML, CSS, JS
 🔹 Design: CAD, Isometric & Orthographic Drawing  
 🔹 Tools: Git, GitHub  
 
