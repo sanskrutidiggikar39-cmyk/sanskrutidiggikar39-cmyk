@@ -8,13 +8,14 @@
 ---
 
 ## About Me
-I am a first-year Aerospace Engineering student interested in learning through projects and building practical skills.
+I am a second-year Aerospace Engineering student interested in learning through projects and building practical skills.
 
 Currently working on:
 - C Programming
 - Python Programming
 - HTML
 - CSS
+- C++
 - JAVASCRIPT
 - CAD (2D & 3D Modeling)
 - Engineering Design
@@ -23,7 +24,7 @@ Currently working on:
 ---
 
 ## Skills
-🔹 Programming: C, Python, HTML, CSS, JS
+🔹 Programming: C, Python, HTML, CSS, JS, C++
 🔹 Design: CAD, Isometric & Orthographic Drawing  
 🔹 Tools: Git, GitHub  
 
