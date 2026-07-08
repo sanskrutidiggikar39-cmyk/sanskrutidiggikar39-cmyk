@@ -51,6 +51,7 @@ Collection of engineering models and practice work.
 ## Connect With Me
 LinkedIn: https://www.linkedin.com/in/sanskruti-diggikar-57bb86259/  
 Email: sanskrutidiggikar39@gmail.com
+Portfolio: ‪C:\internship\HTML-BASIC\portfolio.html
 
 ⭐ Thanks for visiting my profile!
 
